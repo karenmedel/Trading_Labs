@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9694437-9e1f-4b62-be9d-816cb8b12b9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Final_Project/P1/01_Controlador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P2/02_Registro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P3/03_Inicializador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P4/04_Colector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P5/05_Algoritmo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P6/06_Trader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P7/07_Mensajero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/P7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,18 +26,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MYST_LABs$MYST_LABs.coverage" NAME="MYST_LABs Coverage Results" MODIFIED="1557145181004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab4_pt1_eq3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="14" />
+              <selected id="19" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final_Project/P7/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final_Project/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +65,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Final_Project/02_Inicializador.py" />
+        <option value="$PROJECT_DIR$/Final_Project/02_Registro.py" />
+        <option value="$PROJECT_DIR$/Final_Project/03_Inicializador.py" />
+        <option value="$PROJECT_DIR$/Final_Project/04_Colector.py" />
+        <option value="$PROJECT_DIR$/Final_Project/05_Algoritmo.py" />
+        <option value="$PROJECT_DIR$/Final_Project/06_Trader.py" />
+        <option value="$PROJECT_DIR$/Final_Project/08_Asistente_IA.py" />
+        <option value="$PROJECT_DIR$/Final_Project/01_Controlador.py" />
+        <option value="$PROJECT_DIR$/Final_Project/07_Mensajero.py" />
+        <option value="$PROJECT_DIR$/Final_Project/P1/01_Controlador.py" />
         <option value="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" />
       </list>
     </option>
@@ -38,11 +84,15 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -50,11 +100,15 @@
               <item name="MYST_LABs" type="b2602c69:ProjectViewProjectNode" />
               <item name="MYST_LABs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MYST_LABs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MYST_LABs" type="462c0819:PsiDirectoryNode" />
+              <item name="Final_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -63,6 +117,22 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Final_Project" />
+      <recent name="$PROJECT_DIR$/Final_Project/P7" />
+      <recent name="$PROJECT_DIR$/Final_Project/P6" />
+      <recent name="$PROJECT_DIR$/Final_Project/P5" />
+      <recent name="$PROJECT_DIR$/Final_Project/P4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Final_Project/P7" />
+      <recent name="$PROJECT_DIR$/Final_Project/P6" />
+      <recent name="$PROJECT_DIR$/Final_Project/P5" />
+      <recent name="$PROJECT_DIR$/Final_Project/P4" />
+      <recent name="$PROJECT_DIR$/Final_Project/P3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,6 +145,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MYST_LABs" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="MYST_LABs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,22 +180,22 @@
       <workItem from="1556918888438" duration="240000" />
       <workItem from="1556919220818" duration="29000" />
       <workItem from="1556919296439" duration="83000" />
+      <workItem from="1557144686146" duration="4107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="382000" />
+    <option name="totallyTimeSpent" value="5310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15808298" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1602289" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -129,12 +219,70 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Final_Project/02_Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P3/03_Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P4/04_Colector.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P5/05_Algoritmo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P6/06_Trader.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P7/07_Mensajero.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/08_Asistente_IA.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P5/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P6/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P2/02_Registro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/07_Mensajero.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P1/01_Controlador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab4_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="14" />
+          <selected id="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/P7/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
