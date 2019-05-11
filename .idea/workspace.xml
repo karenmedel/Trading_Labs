@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9694437-9e1f-4b62-be9d-816cb8b12b9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/asded.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Prices.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/01_Prices.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +14,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MYST_LABs$MYST_LABs.coverage" NAME="MYST_LABs Coverage Results" MODIFIED="1557145181004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MYST_LABs$MYST_LABs.coverage" NAME="MYST_LABs Coverage Results" MODIFIED="1557439514643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MYST_LABs$asded.coverage" NAME="asded Coverage Results" MODIFIED="1557553383033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
@@ -45,14 +48,15 @@
         <option value="$PROJECT_DIR$/Final_Project/01_Controlador.py" />
         <option value="$PROJECT_DIR$/Final_Project/07_Mensajero.py" />
         <option value="$PROJECT_DIR$/Final_Project/P1/01_Controlador.py" />
-        <option value="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" />
         <option value="$PROJECT_DIR$/Final_Project/__init__.py" />
+        <option value="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" />
+        <option value="$PROJECT_DIR$/asded.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="574" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -76,6 +80,12 @@
               <item name="MYST_LABs" type="462c0819:PsiDirectoryNode" />
               <item name="Final_Project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MYST_LABs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MYST_LABs" type="462c0819:PsiDirectoryNode" />
+              <item name="Final_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Notebook and Data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -90,19 +100,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Final_Project/Notebook and Data" />
+      <recent name="$PROJECT_DIR$/Final_Project/P7" />
+      <recent name="$PROJECT_DIR$/Final_Project/P6" />
+      <recent name="$PROJECT_DIR$/Final_Project/P5" />
+      <recent name="$PROJECT_DIR$/Final_Project/P4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Final_Project" />
       <recent name="$PROJECT_DIR$/Final_Project/P7" />
       <recent name="$PROJECT_DIR$/Final_Project/P6" />
       <recent name="$PROJECT_DIR$/Final_Project/P5" />
       <recent name="$PROJECT_DIR$/Final_Project/P4" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Final_Project/P7" />
-      <recent name="$PROJECT_DIR$/Final_Project/P6" />
-      <recent name="$PROJECT_DIR$/Final_Project/P5" />
-      <recent name="$PROJECT_DIR$/Final_Project/P4" />
-      <recent name="$PROJECT_DIR$/Final_Project/P3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -117,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.asded">
     <configuration name="MYST_LABs" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="MYST_LABs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +146,33 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
+    <configuration name="asded" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MYST_LABs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asded.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.asded" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -152,16 +189,18 @@
       <workItem from="1556919220818" duration="29000" />
       <workItem from="1556919296439" duration="83000" />
       <workItem from="1557144686146" duration="17360000" />
+      <workItem from="1557406082852" duration="4462000" />
+      <workItem from="1557439490586" duration="19422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18563000" />
+    <option name="totallyTimeSpent" value="42447000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="574" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2575188" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28969958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -172,10 +211,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -190,9 +229,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Final_Project/02_Inicializador.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/02_Inicializador.py" />
     <entry file="file://$PROJECT_DIR$/Final_Project/P3/03_Inicializador.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -208,9 +245,7 @@
     <entry file="file://$PROJECT_DIR$/Final_Project/P7/07_Mensajero.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Final_Project/08_Asistente_IA.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/08_Asistente_IA.py" />
     <entry file="file://$PROJECT_DIR$/Final_Project/P1/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -232,9 +267,7 @@
     <entry file="file://$PROJECT_DIR$/Final_Project/P2/02_Registro.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Final_Project/07_Mensajero.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/07_Mensajero.py" />
     <entry file="file://$PROJECT_DIR$/Final_Project/P1/01_Controlador.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -248,10 +281,26 @@
     <entry file="file://$PROJECT_DIR$/Final_Project/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab4_pt1_eq3.ipynb">
+    <entry file="file://$PROJECT_DIR$/cos1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asded.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="79" lean-forward="true" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cos2019-05-11 13:05:01.257650.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="13" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
