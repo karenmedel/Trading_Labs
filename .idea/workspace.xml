@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9694437-9e1f-4b62-be9d-816cb8b12b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asded.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Prices.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/01_Prices.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/lab4_pt1_eq3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/lab4_pt1_eq3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asded.py" beforeDir="false" afterPath="$PROJECT_DIR$/asded.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +18,17 @@
     <SUITE FILE_PATH="coverage/MYST_LABs$asded.coverage" NAME="asded Coverage Results" MODIFIED="1557553383033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +61,7 @@
         <option value="$PROJECT_DIR$/Final_Project/__init__.py" />
         <option value="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" />
         <option value="$PROJECT_DIR$/asded.py" />
+        <option value="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" />
       </list>
     </option>
   </component>
@@ -190,17 +201,18 @@
       <workItem from="1556919296439" duration="83000" />
       <workItem from="1557144686146" duration="17360000" />
       <workItem from="1557406082852" duration="4462000" />
-      <workItem from="1557439490586" duration="19422000" />
+      <workItem from="1557439490586" duration="21105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42447000" />
+    <option name="totallyTimeSpent" value="44130000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28969958" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28969958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -214,7 +226,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -297,10 +309,24 @@
     <entry file="file://$PROJECT_DIR$/cos2019-05-11 13:05:01.257650.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab3_pt1_ep3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1_pt1_eq4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="5" />
         </state>
       </provider>
     </entry>
