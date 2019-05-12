@@ -4,7 +4,6 @@
     <list default="true" id="d9694437-9e1f-4b62-be9d-816cb8b12b9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/bubble.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MYST_LABs$MYST_LABs.coverage" NAME="MYST_LABs Coverage Results" MODIFIED="1557620362119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MYST_LABs$MYST_LABs.coverage" NAME="MYST_LABs Coverage Results" MODIFIED="1557637004831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/MYST_LABs$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1557627142698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MYST_LABs$asded.coverage" NAME="asded Coverage Results" MODIFIED="1557553383033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -228,23 +227,24 @@
       <workItem from="1557144686146" duration="17360000" />
       <workItem from="1557406082852" duration="4462000" />
       <workItem from="1557439490586" duration="25588000" />
-      <workItem from="1557618410393" duration="14876000" />
+      <workItem from="1557618410393" duration="15294000" />
+      <workItem from="1557636982063" duration="819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63489000" />
+    <option name="totallyTimeSpent" value="64726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20529328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16178344" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.03821656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,7 +376,7 @@
     <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="26" />
+          <selected id="27" />
         </state>
       </provider>
     </entry>
