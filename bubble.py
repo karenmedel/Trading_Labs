@@ -4,5 +4,6 @@ import numpy as np
 x = np.random.rand(20)
 y = np.random.rand(20)
 z = np.random.rand(20)
+print(type(x))
 plt.scatter(x, y, s=z * 1000, alpha=0.5)
 plt.show()
