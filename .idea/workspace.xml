@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9694437-9e1f-4b62-be9d-816cb8b12b9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/02_Training_Operations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/03_Test_Acc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/04_Test_Ops.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/05_Test_Acc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/06_Test_Ops.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/02_Training_Operations.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +19,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MYST_LABs$MYST_LABs.coverage" NAME="MYST_LABs Coverage Results" MODIFIED="1557637004831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MYST_LABs$MYST_LABs.coverage" NAME="MYST_LABs Coverage Results" MODIFIED="1557685274920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/MYST_LABs$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1557627142698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MYST_LABs$asded.coverage" NAME="asded Coverage Results" MODIFIED="1557553383033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="26" />
+              <selected id="49" />
             </state>
           </provider>
         </entry>
@@ -63,6 +70,7 @@
         <option value="$PROJECT_DIR$/lab4_pt1_eq3.ipynb" />
         <option value="$PROJECT_DIR$/asded.py" />
         <option value="$PROJECT_DIR$/bubble.py" />
+        <option value="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" />
         <option value="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" />
       </list>
     </option>
@@ -98,6 +106,13 @@
               <item name="Final_Project" type="462c0819:PsiDirectoryNode" />
               <item name="Notebook and Data" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MYST_LABs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MYST_LABs" type="462c0819:PsiDirectoryNode" />
+              <item name="Final_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Notebook and Data" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,19 +128,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints" />
+      <recent name="$PROJECT_DIR$/Final_Project/Notebook and Data" />
+      <recent name="$PROJECT_DIR$/Final_Project" />
+      <recent name="$PROJECT_DIR$/Final_Project/P7" />
+      <recent name="$PROJECT_DIR$/Final_Project/P6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Final_Project/Notebook and Data" />
       <recent name="$PROJECT_DIR$/Final_Project/P7" />
       <recent name="$PROJECT_DIR$/Final_Project/P6" />
       <recent name="$PROJECT_DIR$/Final_Project/P5" />
       <recent name="$PROJECT_DIR$/Final_Project/P4" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints" />
-      <recent name="$PROJECT_DIR$/Final_Project" />
-      <recent name="$PROJECT_DIR$/Final_Project/P7" />
-      <recent name="$PROJECT_DIR$/Final_Project/P6" />
-      <recent name="$PROJECT_DIR$/Final_Project/P5" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,23 +243,24 @@
       <workItem from="1557406082852" duration="4462000" />
       <workItem from="1557439490586" duration="25588000" />
       <workItem from="1557618410393" duration="15294000" />
-      <workItem from="1557636982063" duration="819000" />
+      <workItem from="1557636982063" duration="6117000" />
+      <workItem from="1557685196268" duration="12271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64726000" />
+    <option name="totallyTimeSpent" value="82295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20529328" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.03821656" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.03821656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,20 +351,6 @@
     <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/01_Prices.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab3_pt1_ep3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bubble.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -373,10 +375,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/02_Training_Operations.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/03_Test_Acc.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/04_Test_Ops.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/02_Training_Operations.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3_pt1_ep3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PyMachineTrader-master/s0_Controlador/Controlador.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PyMachineTrader-master/s1_Registro/Registro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PyMachineTrader-master/s2_Inicializador/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PyMachineTrader-master/s3_Colector/Colector.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PyMachineTrader-master/s5_Trader/Trader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-762" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PyMachineTrader-master/s4_Algoritmo/Algoritmo_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/01_Prices.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2126849" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/03_Test_Acc.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/06_Test_Ops.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="27" />
+          <selected id="49" />
         </state>
       </provider>
     </entry>
