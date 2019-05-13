@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9694437-9e1f-4b62-be9d-816cb8b12b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/02_Training_Operations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/03_Test_Acc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/04_Test_Ops.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/05_Test_Acc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/.ipynb_checkpoints/06_Test_Ops.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/02_Training_Operations.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" afterDir="false" />
     </list>
@@ -29,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="49" />
+              <selected id="32" />
             </state>
           </provider>
         </entry>
@@ -244,12 +237,12 @@
       <workItem from="1557439490586" duration="25588000" />
       <workItem from="1557618410393" duration="15294000" />
       <workItem from="1557636982063" duration="6117000" />
-      <workItem from="1557685196268" duration="12271000" />
+      <workItem from="1557685196268" duration="12676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82295000" />
+    <option name="totallyTimeSpent" value="82700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -439,7 +432,7 @@
     <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="49" />
+          <selected id="32" />
         </state>
       </provider>
     </entry>
