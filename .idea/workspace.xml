@@ -4,13 +4,7 @@
     <list default="true" id="d9694437-9e1f-4b62-be9d-816cb8b12b9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/P1/01_Controlador.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/P2/02_Registro.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/P3/03_Inicializador.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/P4/04_Colector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/P5/05_Algoritmo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/P6/06_Trader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/P7/07_Mensajero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_pt1_ep3.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="8" />
+              <selected id="50" />
             </state>
           </provider>
         </entry>
@@ -70,13 +64,13 @@
         <option value="$PROJECT_DIR$/asded.py" />
         <option value="$PROJECT_DIR$/bubble.py" />
         <option value="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" />
-        <option value="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" />
         <option value="$USER_HOME$/Downloads/PyMachineTrader-master/s2_Inicializador/Inicializador.py" />
         <option value="$PROJECT_DIR$/Final_Project/P2/02_Registro.py" />
         <option value="$PROJECT_DIR$/Final_Project/P1/01_Controlador.py" />
         <option value="$PROJECT_DIR$/Final_Project/P4/04_Colector.py" />
         <option value="$PROJECT_DIR$/Final_Project/P3/03_Inicializador.py" />
         <option value="$PROJECT_DIR$/Final_Project/P3/T_03_Inicializador.py" />
+        <option value="$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb" />
       </list>
     </option>
   </component>
@@ -242,12 +236,12 @@
       <workItem from="1557439490586" duration="25588000" />
       <workItem from="1557618410393" duration="15294000" />
       <workItem from="1557636982063" duration="6117000" />
-      <workItem from="1557685196268" duration="18193000" />
+      <workItem from="1557685196268" duration="19407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88217000" />
+    <option name="totallyTimeSpent" value="89431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -359,20 +353,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/02_Training_Operations.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab3_pt1_ep3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="15" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/PyMachineTrader-master/s0_Controlador/Controlador.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -494,10 +474,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3_pt1_ep3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4_pt1_eq3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Final_Project/Notebook and Data/lab4_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="8" />
+          <selected id="50" />
         </state>
       </provider>
     </entry>
